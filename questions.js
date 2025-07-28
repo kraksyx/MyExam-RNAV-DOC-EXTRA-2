@@ -2,7 +2,7 @@ const questions = [
   {
     "question": "On an HSI with VOR:",
     "options": [
-      "Pictorial deviation relative to radials",
+      " A pictorial presentation of aircraft deviation relative to VOR radials is provided",
       "",
       "",
       ""
@@ -30,9 +30,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "MLS is primarily installed where:",
+    "question": "MLS is primarily being installed at airports where:",
     "options": [
-      "ILS faces terrain/building interference",
+      "ILS encounters difficulties because of surrounding buildings and/or the terrain or interference from local music stations",
       "",
       "",
       ""
@@ -40,9 +40,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "True statement:",
+    "question": "Which statement is true?",
     "options": [
-      "Lower frequency \u2192 Greater ionospheric attenuation",
+      "The lower the frequency the greater the ionospheric attenuation.",
       "",
       "",
       ""
@@ -140,9 +140,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "Hybrid navigation systems:",
+    "question": "With regard to RNAV, what are hybrid navigation systems?",
     "options": [
-      "Merge info from self-contained and externally referenced systems",
+      " RNAV systems that use and merge information from self-contained and externally referenced navigation systems",
       "",
       "",
       ""
@@ -150,7 +150,7 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "V1, VR, V2 speeds stored in:",
+    "question": "In FMC of the FMS, data relating to V1, VR, and V2 speeds is stored in the:",
     "options": [
       "Performance database",
       "",
@@ -160,9 +160,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "Increasing radar display range:",
+    "question": "When an operator increases the range on a radar display:",
     "options": [
-      "Lowers PRF and increases pulse length",
+      "The PRF becomes lower and the pulse length larger",
       "",
       "",
       ""
@@ -180,9 +180,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "Phantom waypoint from VOR/DME:",
+    "question": "In order to enter a phantom waypoint designated by a VOR/DME in a simple RNAV system, the VOR/DME:",
     "options": [
-      "Must be in range when used (not when entered)",
+      "Does not have to be in range when entered, but must be when used",
       "",
       "",
       ""
@@ -190,9 +190,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "SSR altitude reporting:",
+    "question": "In SSR, if altitude reporting is required, the transponder should be set to “ALT” and will respond to:",
     "options": [
-      "Set transponder to ALT \u2192 responds to Mode C & A",
+      "Mode C and A interrogations",
       "",
       "",
       ""
@@ -200,9 +200,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "GLONASS vs NAVSTAR:",
+    "question": "The GLONASS satellite system differs from NAVSTAR GPS in that:",
     "options": [
-      "GLONASS satellites are at lower altitude",
+      " The satellites are at a lower orbital height",
       "",
       "",
       ""
@@ -210,7 +210,7 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "PRF 1200 radar max range:",
+    "question": " A ground radar transmitting at a PRF of 1200 pulses/sec will have a max unambiguous range of approx:",
     "options": [
       "67 NM",
       "",
@@ -220,9 +220,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "Radar approach types:",
+    "question": "Two types of radar approaches are:",
     "options": [
-      "Surveillance and precision",
+      "Surveillance approach and precision approach",
       "",
       "",
       ""
@@ -230,9 +230,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "SSR code 2000:",
+    "question": "The selection of 2000 on an aircraft SSR transponder indicates:",
     "options": [
-      "Entry from non-SSR zone",
+      "Entry into airspace from a non-SSR zone",
       "",
       "",
       ""
@@ -240,9 +240,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "D-GPS accuracy:",
+    "question": "DGPS accuracy improves when:",
     "options": [
-      "Closer to ground station = more accurate",
+      "The receiver is nearer to the D-GPS ground station",
       "",
       "",
       ""
@@ -250,7 +250,7 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "Airfield surface movement radar frequency:",
+    "question": "Most airfield surface movement radar systems operate in:",
     "options": [
       "SHF",
       "",
@@ -260,9 +260,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "Weather radar ~9 GHz:",
+    "question": "Airborne weather radars use ~9 GHz because:",
     "options": [
-      "Detects large water droplets",
+      "The wavelength allows reflections only from larger water droplets",
       "",
       "",
       ""
@@ -270,7 +270,7 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "DME distinguishes aircraft:",
+    "question": "DME differentiates between aircraft by:",
     "options": [
       "Jittered PRF",
       "",
@@ -280,7 +280,7 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "AWR intensity colors:",
+    "question": "Colors on conventional AWR indicating increasing return intensity:",
     "options": [
       "Green, amber, red",
       "",
@@ -290,9 +290,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "Weather radar before flight:",
+    "question": "Before commencing flight, the weather radar should be:",
     "options": [
-      "Standby until runway lineup",
+      "In standby until line-up with the runway",
       "",
       "",
       ""
@@ -300,9 +300,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "NAVSTAR GPS errors fixed by D-GPS:",
+    "question": " Which GPS errors are corrected by D-GPS?",
     "options": [
-      "Clock, Selective Availability",
+      "Clock error and Selective Availability",
       "",
       "",
       ""
@@ -310,9 +310,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "RAIM:",
+    "question": "RAIM is achieved:",
     "options": [
-      "Achieved within receiver",
+      "Within the receiver",
       "",
       "",
       ""
@@ -320,9 +320,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "DME frequency range:",
+    "question": "DME operates in which frequency band?",
     "options": [
-      "962\u20131213 MHz",
+      "962 to 1213 MHz",
       "",
       "",
       ""
@@ -330,9 +330,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "AWR detection of turbulence at low level:",
+    "question": "At low altitudes, using AWR to detect turbulence below may be hard because of:",
     "options": [
-      "Difficult due to ground returns",
+      "Ground returns",
       "",
       "",
       ""
@@ -340,9 +340,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "Waypoint formats in 737 scratchpad:",
+    "question": "Waypoint formats accepted on 737 CDU scratchpad include:",
     "options": [
-      "Place/Bearing/Distance, P/B\u2013P/B, ICAO ID, Lat/Long",
+      "Place/Bearing/Distance, Place/Bearing–Place/Bearing, ICAO ID, Latitude/Longitude",
       "",
       "",
       ""
@@ -360,9 +360,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "D-GPS true statement:",
+    "question": "What is true about D-GPS?",
     "options": [
-      "Improves accuracy",
+      " It improves accuracy of position info",
       "",
       "",
       ""
@@ -370,9 +370,9 @@ const questions = [
     "correct": 0
   },
   {
-    "question": "DME interrogation:",
+    "question": "Which is correct about DME interrogation?",
     "options": [
-      "Starts after warm-up, regardless of pulse pair reception",
+      "Interrogation begins when warmed up, even if no pulse pairs are received",
       "",
       "",
       ""
